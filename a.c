@@ -1,1 +1,1 @@
-sample 
+resolved from conflicts
